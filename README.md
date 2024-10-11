@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [guanlan zhao]!
+# Hi there 👋, I'm zhao guanlan!
 
 I am a fourth-year Ph.D. student in Statistics at Zhejiang University.
 
