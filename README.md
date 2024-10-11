@@ -21,5 +21,5 @@ A project focused on time-series data classification (light-curve).
 A project for classifying text messages on Wechat data from Zhejiang University New Media Center Department.
 
 ## 📄 Papers
-### [Your Paper Title](https://arxiv.org/abs/2311.03811)
-FSR control in selective inference.
+### [Controlling FSR in Selective Classification](https://arxiv.org/abs/2311.03811)
+Uncertainty quantification and false selection error rate (FSR) control are crucial in many high-consequence scenarios, so we need models with good interpretability. This article introduces the optimality function for the binary classification problem in selective classification. We prove the optimality of this function in oracle situations and provide a data-driven method under the condition of exchangeability. We demonstrate it can control global FSR with the finite sample assumption and successfully extend the above situation from binary to multi-class classification. Furthermore, we demonstrate that FSR can still be controlled without exchangeability, ultimately completing the proof using the martingale method.
